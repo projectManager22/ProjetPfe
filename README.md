@@ -1,3 +1,3 @@
 # Projet PFE
 ## Collaboratif project
-### add a file readme
+### add a file .gitignore
