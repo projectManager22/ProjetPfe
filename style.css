@@ -25,7 +25,10 @@ p {
 }
 body {
   min-height: 100vh;
+
   background: greenyellow;
+
+ 
   color: rgb(254, 254, 254);
 }
 nav {
